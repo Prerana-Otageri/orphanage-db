@@ -12,11 +12,11 @@ Manage user accounts and access levels.
 ### User View:  
 Browse detailed profiles of orphans. 
 Submit adoption requests and track their status. 
-Search for orphans based on age, gender, interests, and other criteria.
+Search for orphans based on age, gender, interests, and other criteria. 
 
 ## Skills Used: 
 Frontend: HTML, CSS, JavaScript 
-Backend: PHP  
+Backend: PHP 
 Database: SQL/MariaDB
 
 # How To Run?
