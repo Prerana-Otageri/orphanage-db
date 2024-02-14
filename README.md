@@ -6,7 +6,7 @@ This project is a web-based application designed to seamlessly manage the databa
 ### Admin View:
 Add, edit, and delete orphan profiles. 
 Maintain donation records and track financial transactions. 
-Generate reports on adoption requests and orphan information. 
+Generate reports on adoption requests and orphan information.  
 Manage user accounts and access levels. 
 
 ### User View:  
