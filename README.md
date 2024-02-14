@@ -2,23 +2,20 @@
 # Orphanage Database Management System
 ## Overview:
 This project is a web-based application designed to seamlessly manage the database of an orphanage, facilitating the adoption process and information access for potential adoptive parents. It offers separate interfaces for both admins and users:
-
-Admin View: Manage orphan details, including personal information, educational background, special needs, and photos.
-User View: Access comprehensive information about orphans, search based on specific criteria, and submit adoption requests.
  
 ### Admin View:
-Add, edit, and delete orphan profiles.
-Maintain donation records and track financial transactions.
-Generate reports on adoption requests and orphan information.
+Add, edit, and delete orphan profiles. 
+Maintain donation records and track financial transactions. 
+Generate reports on adoption requests and orphan information. 
 Manage user accounts and access levels. 
 
-### User View: 
-Browse detailed profiles of orphans.
+### User View:  
+Browse detailed profiles of orphans. 
 Search for orphans based on age, gender, interests, and other criteria.
 
-## Skills Used:
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
+## Skills Used: 
+Frontend: HTML, CSS, JavaScript 
+Backend: PHP 
 Database: SQL
 
 # How To Run?
